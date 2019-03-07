@@ -1,4 +1,4 @@
-mkdir ./Ahmed
+mkdir ./HW
 cd Ahmed
 touch blank.txt
 
